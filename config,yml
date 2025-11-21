@@ -1,0 +1,30 @@
+title: "Siddharth R - Resume"
+description: "Professional resume website hosted on GitHub Pages"
+
+# Theme for GitHub Pages
+# You can change to: minima, cayman, slate, tactile, leap-day etc.
+theme: minima
+
+# Markdown settings
+markdown: kramdown
+
+# Navigation links
+header_pages:
+  - index.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO Settings
+seo:
+  type: "resume"
+  name: "Siddharth R"
+  description: "Field Sales Representative at Bosch | M.Tech Machine Design"
+
+# Author Info
+author:
+  name: "Siddharth R"
+  email: "siddharthrajesh2k2@gmail.com"
+  linkedin: "https://linkedin.com/in/siddharth-r-"
